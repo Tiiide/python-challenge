@@ -3,7 +3,7 @@ import csv
 import os
 
 # Relative path to our csv file
-csvpath = "PyPoll\Resources\election_data.csv"
+csvpath = "PyPoll/Resources/election_data.csv"
 
 # Initialize Counter Variables
 Stockham_Votes = 0
